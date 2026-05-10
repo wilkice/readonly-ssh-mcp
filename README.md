@@ -1,0 +1,1 @@
+# readonly-ssh-mcp
